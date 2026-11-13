@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this software by author and version, and use the archived release DOI once available."
+title: "Root-zone soil-moisture memory and vegetation coupling research code"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Longqi
+version: 0.1.0
+license: MIT
